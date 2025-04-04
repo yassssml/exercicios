@@ -1,4 +1,13 @@
-let raio = 35
-let pi = 3.14
+let number = 4
 
-console.log('A área do raio é de' +' '+ raio * raio * pi)
+if (number % 2 === 0) {
+ console.log('Esse numero é par.')}
+
+if (number > 10) {
+ console.log('Esse numero é maior que 10.')}
+
+if (number % 2 !== 0){
+console.log('Esse numero não é par.')}
+
+if (number < 10) {
+console.log('Esse numero é menor que 10.')}
