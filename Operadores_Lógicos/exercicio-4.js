@@ -1,4 +1,4 @@
-let valor = 80
-let pessoas = 4
+let valor1 = 5
+let valor2 = 15
 
-console.log('Cada pessoa leva' +' '+ valor / pessoas)
+console.log(valor1 && valor2)
